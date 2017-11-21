@@ -1,0 +1,12 @@
+.TweetInput {
+    text-align: left;
+    height: 80px;
+    width: 80%;
+    font-size:25px
+  }
+
+.TweetButton {
+    background-color: green;
+    height: 30px;
+    color: white;
+}

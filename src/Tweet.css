@@ -1,0 +1,11 @@
+.Tweet {
+    background: transparent;
+    margin: 10px auto;
+    align-content: center;
+    height: 80px;
+    width: 60%;
+    border-width: 2px;
+    padding: 10px;
+    border: 1px solid #d1d1d1;
+    box-shadow: 0px 1px 1px #d1d1d1;
+}
