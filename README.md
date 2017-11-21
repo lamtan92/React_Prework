@@ -24,7 +24,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![Twitter.gif](demo Twitter.gif)
+![Demo](https://imgur.com/RrQEzic)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
