@@ -24,7 +24,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![Demo](https://imgur.com/RrQEzic)
+[Imgur](https://i.imgur.com/RrQEzic.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
